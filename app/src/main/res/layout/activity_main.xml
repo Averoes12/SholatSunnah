@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:layout_margin="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:layout_marginBottom="16dp"
+        android:text="@string/list_sholat_sunnah"/>
+    <TextView
+        android:id="@+id/tahajjud"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tahajjud"
+        android:layout_marginBottom="8dp"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/witir"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:text="@string/witir"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/rawatib"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:text="@string/rawatib"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/dhuha"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dhuha"
+        android:layout_marginBottom="8dp"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/istikhoroh"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/istikhoroh"
+        android:layout_marginBottom="8dp"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/tahiyyatulMasjid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tahiyyatul_masjid"
+        android:layout_marginBottom="8dp"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/syuruq"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/syuruq"
+        android:textSize="20sp"/>
+
+</LinearLayout>

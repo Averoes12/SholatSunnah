@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sholat Sunnah</string>
+    <string name="tahajjud">Tahajjud</string>
+    <string name="witir">Witir</string>
+    <string name="rawatib">Rawatib</string>
+    <string name="dhuha">Dhuha</string>
+    <string name="istikhoroh">Istikhoroh</string>
+    <string name="tahiyyatul_masjid">Tahiyyatul Masjid</string>
+    <string name="syuruq">Syuruq</string>
+    <string name="list_sholat_sunnah">List Sholat Sunnah:</string>
+</resources>
